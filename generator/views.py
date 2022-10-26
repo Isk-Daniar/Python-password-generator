@@ -1,6 +1,5 @@
 from django.shortcuts import render
 import random
-# Create your views
 
 def home(request):
     return render(request, 'generator/home.html')
