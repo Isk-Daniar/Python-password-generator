@@ -1,75 +1,52 @@
-/* Rectangle 2 */
+all{
 
+}
 
-position: absolute;
-width: 660px;
-height: 586px;
+.box{
 
-background: rgba(166, 112, 6, 0.32);
-border-radius: 40px;
+}
 
-/* Rectangle 11 */
+.box-1{
 
+}
 
-position: absolute;
-width: 100px;
-height: 45px;
+.box-2{
 
-background: #FF0001;
-border-radius: 40px;
+}
 
+.box-3{
 
-position: absolute;
-width: 300px;
-height: 45px;
+}
 
-background: #B80001;
-border-radius: 40px;
+.box-4{
 
+}
 
-/* Rectangle 12 */
+.box-5{
 
+}
 
-position: absolute;
-width: 486px;
-height: 47px;
+.box-6{
 
-background: #3E0000;
-border-radius: 40px;
+}
 
+.box-7{
 
-/* Rectangle 13 */
+}
 
+.box-8{
 
-position: absolute;
-width: 246px;
-height: 26px;
+}
 
-background: #600000;
+.box-9{
 
+}
 
-/* Rectangle 16 */
+.box-10{
 
+}
 
-position: absolute;
-width: 246px;
-height: 22px;
+.box-11{
 
-background: #A60000;
+}
 
-
-/* Rectangle 15 */
-
-
-position: absolute;
-width: 246px;
-height: 22px;
-
-/* Rectangle 14 */
-
-
-position: absolute;
-width: 246px;
-height: 22px;
-
-background: #770000;

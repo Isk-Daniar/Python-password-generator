@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14125a7f-a4ac-4e3a-9d40-eae5a3ee7434" name="Changes" comment="sa" />
+    <list default="true" id="14125a7f-a4ac-4e3a-9d40-eae5a3ee7434" name="Changes" comment="Update README.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/generator/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator/templates/generator/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/generator/templates/generator/home.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +16,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -93,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663050726894</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update README.md">
+      <created>1666766895542</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666766895542</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="the secret key was changed" />
     <MESSAGE value="sa" />
-    <option name="LAST_COMMIT_MESSAGE" value="sa" />
+    <MESSAGE value="Update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
 </project>
